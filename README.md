@@ -29,6 +29,35 @@ Busco colaborar en equipos donde pueda seguir aprendiendo, aportando valor desde
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+
+  ### 🚀 Desarrollo Frontend
+- JavaScript
+- React
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+
+### 🧩 Desarrollo Backend
+- Node.js
+- Express
+- PHP
+- Java
+
+### 🗄️ Bases de Datos
+- SQL
+- MySQL
+- PostgreSQL
+
+### ✅ QA y Testing
+- Cypress
+- Postman
+- OWASP ZAP
+- JMeter
+- Azure DevOps
+- JIRA
+- Trello
+
 </p>
 
 ---
