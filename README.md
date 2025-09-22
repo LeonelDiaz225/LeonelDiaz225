@@ -33,10 +33,7 @@ Busco colaborar en equipos donde pueda seguir aprendiendo, aportando valor desde
   ### 🚀 Desarrollo Frontend
 - JavaScript
 - React
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
+- HTML
 
 ### 🧩 Desarrollo Backend
 - Node.js
@@ -45,7 +42,7 @@ Busco colaborar en equipos donde pueda seguir aprendiendo, aportando valor desde
 - Java
 
 ### 🗄️ Bases de Datos
-- SQL
+- SQL Server
 - MySQL
 - PostgreSQL
 
@@ -55,8 +52,6 @@ Busco colaborar en equipos donde pueda seguir aprendiendo, aportando valor desde
 - OWASP ZAP
 - JMeter
 - Azure DevOps
-- JIRA
-- Trello
 
 </p>
 
